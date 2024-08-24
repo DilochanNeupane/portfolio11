@@ -615,10 +615,7 @@ span{
     background: var(--second-bg-color);
 
 }
-.footer-text,
-.footer-iconTop {
-    position: relative;
-}
+
 .footer-text p{
     font-size: 1.6rem;
 
